@@ -1,0 +1,30 @@
+.activeD {
+	display: inherit;
+}
+
+.nonActive {
+	display: none;
+}
+
+#jumbotron1 {
+	background: black;
+}
+#overviewDiv {
+	
+}
+
+#moreAboutMeDiv {
+	
+}
+
+#experienceDiv {
+	
+}
+
+#resumeDiv {
+	
+}
+
+#contactDiv {
+	
+}
